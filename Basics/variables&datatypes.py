@@ -23,3 +23,5 @@ g = complex(8 + 2)  # complex number
 print(g)
 print('the type of g ', type(g))
 
+
+# Alt + Shift + down arrow key to copy the line statement multiple times

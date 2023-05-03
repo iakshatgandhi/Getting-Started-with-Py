@@ -20,7 +20,7 @@ After cloning the repository, you can explore the various folders and files to l
 Course Outline
 This repository is organized into several sections, each containing multiple lessons on different Python concepts and topics. Here is a brief overview of what you can expect to learn:
 
-Section 1: Python Basics
+# Section 1: Python Basics
   Lesson 1: Introduction to Python
   Lesson 2: Variables and Data Types
   Lesson 3: Operators and Expressions
@@ -28,7 +28,7 @@ Section 1: Python Basics
   Lesson 5: Loops
   Lesson 6: Functions
 
-Section 2: Intermediate Python
+# Section 2: Intermediate Python
   Lesson 7: Lists
   Lesson 8: Dictionaries
   Lesson 9: Tuples
@@ -36,7 +36,7 @@ Section 2: Intermediate Python
   Lesson 11: Error Handling
   Lesson 12: Modules and Packages
 
-Section 3: Advanced Python
+# Section 3: Advanced Python
   Lesson 13: Classes and Objects
   Lesson 14: Inheritance and Polymorphism
   Lesson 15: Decorators
@@ -46,8 +46,8 @@ Section 3: Advanced Python
 
 Each lesson includes a brief explanation of the concept or topic, followed by example code and exercises for you to practice and reinforce your learning.
 
-Contributing
+# Contributing
 	If you would like to contribute to this repository, feel free to open a pull request with your changes. Please make sure that your code is well-documented and adheres to the existing coding style.
 
-License
+# License
 	This repository is licensed under the MIT License. You are free to use and modify the code in this repository for personal or commercial use. However, please give credit to the original author by including a link to this repository.

@@ -47,7 +47,7 @@ Section 3: Advanced Python
 Each lesson includes a brief explanation of the concept or topic, followed by example code and exercises for you to practice and reinforce your learning.
 
 Contributing
-If you would like to contribute to this repository, feel free to open a pull request with your changes. Please make sure that your code is well-documented and adheres to the existing coding style.
+	If you would like to contribute to this repository, feel free to open a pull request with your changes. Please make sure that your code is well-documented and adheres to the existing coding style.
 
 License
-This repository is licensed under the MIT License. You are free to use and modify the code in this repository for personal or commercial use. However, please give credit to the original author by including a link to this repository.
+	This repository is licensed under the MIT License. You are free to use and modify the code in this repository for personal or commercial use. However, please give credit to the original author by including a link to this repository.

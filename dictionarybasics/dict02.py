@@ -37,3 +37,14 @@ print(list(my_dict.values()))
 
 # all items in the dictionary into a list
 print(list(my_dict.items()))
+
+
+my_dict["dragon fruit"] = 64.50
+print(my_dict)
+
+del my_dict['lemon']
+print(my_dict)
+
+
+# to copy dictionary
+folder = my_dict.copy()
